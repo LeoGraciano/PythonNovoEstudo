@@ -1,0 +1,31 @@
+{
+    "code-runner.executorMap": {
+        "python": "venv/bin/python",
+    },
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": false,
+    "python.languageServer": "Pylance",
+    "languageTool.language": "en,pt-BR",
+    "cSpell.language": "en,pt-BR",
+    "bracket-pair-colorizer-2.colorMode": "Independent",
+    "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+    "cSpell.allowCompoundWords": true,
+    "bracketPairColorizer.forceIterationColorCycle": true,
+    "bracketPairColorizer.highlightActiveScope": true,
+    "bracketPairColorizer.forceUniqueOpeningColor": true,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.showBracketsInRuler": true,
+    "bracketPairColorizer.showBracketsInGutter": true,
+    "bracketPairColorizer.showBracketsInRuler": true,
+    "better-comments.highlightPlainText": true,
+    "cSpell.words": [
+        "isnumeric",
+        "leiaint"
+    ],
+    "git.ignoreLimitWarning": true,
+    "python.testing.promptToConfigure": false
+}
