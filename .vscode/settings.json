@@ -27,5 +27,7 @@
         "leiaint"
     ],
     "git.ignoreLimitWarning": true,
-    "python.testing.promptToConfigure": false
+    "python.testing.promptToConfigure": false,
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "venv/bin/python3.8"
 }
